@@ -3,16 +3,16 @@
 A Minimal starter repo to kickstart any new project using Vite, React, TypeScript and Tailwind CSS.
 
 <a href="https://vitejs.dev/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg" width="122" height="120" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg" width="61" height="60" />
 </a>
 <a href="https://react.dev/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="270" height="240" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="61" height="60" />
 </a>
 <a href="https://www.typescriptlang.org/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="270" height="240" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="61" height="60" />
 </a>
 <a href="https://tailwindcss.com/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="270" height="240" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="61" height="60" />
 </a>
 
 <br />
