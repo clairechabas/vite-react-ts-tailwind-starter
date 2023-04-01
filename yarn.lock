@@ -922,24 +922,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"daylicious@workspace:.":
-  version: 0.0.0-use.local
-  resolution: "daylicious@workspace:."
-  dependencies:
-    "@types/node": ^18.15.11
-    "@types/react": ^18.0.31
-    "@types/react-dom": ^18.0.11
-    "@vitejs/plugin-react": ^3.1.0
-    autoprefixer: ^10.4.14
-    postcss: ^8.4.21
-    react: ^18.2.0
-    react-dom: ^18.2.0
-    tailwindcss: ^3.3.1
-    typescript: ^4.9.3
-    vite: ^4.2.0
-  languageName: unknown
-  linkType: soft
-
 "debug@npm:4, debug@npm:^4.1.0, debug@npm:^4.3.3":
   version: 4.3.4
   resolution: "debug@npm:4.3.4"
@@ -2433,6 +2415,24 @@ __metadata:
   checksum: 474acf1146cb2701fe3b074892217553dfcf9a031280919ba1b8d651a068c9b15d863b7303cb15bd00a862b498e6cf4ad7b4a08fb134edd5a6f7641681cb54a2
   languageName: node
   linkType: hard
+
+"vite-react-ts-tailwind-starter@workspace:.":
+  version: 0.0.0-use.local
+  resolution: "vite-react-ts-tailwind-starter@workspace:."
+  dependencies:
+    "@types/node": ^18.15.11
+    "@types/react": ^18.0.31
+    "@types/react-dom": ^18.0.11
+    "@vitejs/plugin-react": ^3.1.0
+    autoprefixer: ^10.4.14
+    postcss: ^8.4.21
+    react: ^18.2.0
+    react-dom: ^18.2.0
+    tailwindcss: ^3.3.1
+    typescript: ^4.9.3
+    vite: ^4.2.0
+  languageName: unknown
+  linkType: soft
 
 "vite@npm:^4.2.0":
   version: 4.2.1
