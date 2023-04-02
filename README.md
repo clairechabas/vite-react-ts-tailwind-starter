@@ -2,21 +2,23 @@
 
 A Minimal starter repo to kickstart any new project using Vite, React, TypeScript and Tailwind CSS.
 
-<p align="center">
-<a href="https://vitejs.dev/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg" width="61" height="60" />
+<br /><br />
+
+<p align="center" style="display: flex; justify-content: center; align-items: center;">
+<a href="https://vitejs.dev/" style="margin-right: 20px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg" width="30" height="30" />
 </a>
 +
-<a href="https://react.dev/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="61" height="60" />
+<a href="https://react.dev/" style="margin-right: 20px; margin-left: 20px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="30" height="30" />
 </a>
 +
-<a href="https://www.typescriptlang.org/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="61" height="60" />
+<a href="https://www.typescriptlang.org/" style="margin-right: 20px; margin-left: 20px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="30" height="30" />
 </a>
 +
-<a href="https://tailwindcss.com/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="61" height="60" />
+<a href="https://tailwindcss.com/" style="margin-left: 20px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="30" height="30" />
 </a>
 </p>
 
